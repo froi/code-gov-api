@@ -47,7 +47,7 @@
     "express-rate-limit": "^3.2.1",
     "express-request-id": "^1.4.1",
     "git-rev": "^0.2.1",
-    "helmet": "^3.14.0",
+    "helmet": "^3.21.0",
     "jsonfile": "^5.0.0",
     "jstransformer-markdown-it": "^2.1.0",
     "latinize": "^0.4.0",
