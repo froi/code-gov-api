@@ -22,7 +22,9 @@
     "unit-test": "./node_modules/.bin/nyc mocha --reporter mocha-multi-reporters --reporter-options configFile=test/mocha-multi-reporter-config.json test/unit",
     "integration-test": "./node_modules/.bin/nyc mocha --reporter mocha-multi-reporters --reporter-options configFile=test/mocha-multi-reporter-config.json test/integration",
     "lint": "./node_modules/.bin/eslint .",
-    "lint-fix": "./node_modules/.bin/eslint --fix ."
+    "lint-fix": "./node_modules/.bin/eslint --fix .",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "@code.gov/code-gov-adapter": "^1.1.5",
@@ -60,7 +62,8 @@
     "serve-favicon": "^2.5.0",
     "simple-rules-engine": "^1.0.2",
     "sleep": "^5.2.3",
-    "swagger-ui-express": "^4.0.1"
+    "swagger-ui-express": "^4.0.1",
+    "snyk": "^1.226.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
@@ -76,5 +79,6 @@
   "engines": {
     "node": "^10.14.0",
     "npm": "^6.4.1"
-  }
+  },
+  "snyk": true
 }
