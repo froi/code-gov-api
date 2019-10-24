@@ -1,3 +1,4 @@
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=froi/code-gov-api)](https://dependabot.com)
 [![CircleCI](https://circleci.com/gh/GSA/code-gov-api.svg?style=shield&circle-token=a7551669b06edee93c482a338d87d354974faa9f)](https://circleci.com/gh/GSA/code-gov-api)
 [![Maintainability](https://api.codeclimate.com/v1/badges/c7f588c467b66045efdf/maintainability)](https://codeclimate.com/github/GSA/code-gov-api/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/c7f588c467b66045efdf/test_coverage)](https://codeclimate.com/github/GSA/code-gov-api/test_coverage)
