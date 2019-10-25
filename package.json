@@ -45,7 +45,7 @@
     "dtrace-provider": "^0.8.7",
     "elasticsearch": "^15.1.1",
     "encoding": "^0.1.12",
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "express-rate-limit": "^3.2.1",
     "express-request-id": "^1.4.1",
     "git-rev": "^0.2.1",
