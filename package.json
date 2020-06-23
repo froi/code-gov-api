@@ -54,7 +54,7 @@
     "jstransformer-markdown-it": "^2.1.0",
     "latinize": "^0.4.0",
     "marked": "^0.6.1",
-    "moment": "^2.22.0",
+    "moment": "^2.27.0",
     "nan": "^2.11.1",
     "newrelic": "^4.9.0",
     "node-fetch": "^2.2.0",
