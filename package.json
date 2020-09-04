@@ -53,7 +53,7 @@
     "jsonfile": "^5.0.0",
     "jstransformer-markdown-it": "^2.1.0",
     "latinize": "^0.4.0",
-    "marked": "^0.6.1",
+    "marked": "^0.7.0",
     "moment": "^2.27.0",
     "nan": "^2.11.1",
     "newrelic": "^4.9.0",
