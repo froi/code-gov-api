@@ -46,7 +46,7 @@
     "elasticsearch": "^15.1.1",
     "encoding": "^0.1.12",
     "express": "^4.17.1",
-    "express-rate-limit": "^3.2.1",
+    "express-rate-limit": "^5.2.6",
     "express-request-id": "^1.4.1",
     "git-rev": "^0.2.1",
     "helmet": "^3.21.2",
